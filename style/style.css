@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.custom-container {
+    text-align: center;
+    padding: 100px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #7396bb;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.new-container {
+    text-align: center;
+    padding: 50px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
